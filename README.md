@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/nuffe/TA)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/erikcs/TA/master)
 
 4329 Advanced Methods in Finance, R session slides:
 
