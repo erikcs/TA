@@ -4,7 +4,7 @@
 
 [4329_session0_R_intro.ipynb](https://github.com/erikcs/TA/blob/master/4329_session0_R_intro.ipynb)
 
-extra material for some home works in the SSE course 4302 Quantitative Methods in Corporate Finance:
+4302 Quantitative Methods in Corporate Finance, extra material for some homeworks: 
 
 [4302_EventStudy.ipynb](https://github.com/erikcs/TA/blob/master/4302_EventStudy.ipynb): Example of how to do an event study in R using functional idioms with the `dplyr` package
 
