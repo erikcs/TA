@@ -36,7 +36,7 @@ RUN conda install --quiet --yes \
     'r-crayon=1.3*' && conda clean -tipsy
 
 RUN echo "r <- getOption('repos'); r['CRAN'] <- 'http://cran.us.r-project.org'; options(repos = r);" > ~/.Rprofile
-RUN Rscript -e "install.packages('tidyverse')"
+# RUN Rscript -e "install.packages('tidyverse')"
 RUN Rscript -e "install.packages('tseries')"
 RUN Rscript -e "install.packages('forecast')"
 RUN Rscript -e "install.packages('strucchange')"
