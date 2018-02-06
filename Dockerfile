@@ -35,5 +35,12 @@ RUN conda install --quiet --yes \
     'r-rcurl=1.95*' \
     'r-crayon=1.3*' && conda clean -tipsy
 
+RUN echo "r <- getOption('repos'); r['CRAN'] <- 'http://cran.us.r-project.org'; options(repos = r);" > ~/.Rprofile
+RUN Rscript -e "install.packages('tidyverse')"
+RUN Rscript -e "install.packages('tseries')"
+RUN Rscript -e "install.packages('forecast')"
+RUN Rscript -e "install.packages('strucchange')"
+RUN Rscript -e "install.packages('vars')"
+
 WORKDIR /home/jovyan
 ADD . /home/jovyan
