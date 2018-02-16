@@ -43,6 +43,7 @@ RUN Rscript -e "install.packages('strucchange')"
 RUN Rscript -e "install.packages('vars')"
 RUN Rscript -e "install.packages('urca')"
 RUN Rscript -e "install.packages('rugarch')"
+RUN Rscript -e "install.packages('glmnet')"
 
 WORKDIR /home/jovyan
 ADD . /home/jovyan
