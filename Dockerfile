@@ -44,6 +44,7 @@ RUN Rscript -e "install.packages('vars')"
 RUN Rscript -e "install.packages('urca')"
 RUN Rscript -e "install.packages('rugarch')"
 RUN Rscript -e "install.packages('glmnet')"
+RUN Rscript -e "install.packages('imager')"
 
 WORKDIR /home/jovyan
 ADD . /home/jovyan
