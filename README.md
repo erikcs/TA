@@ -4,11 +4,11 @@
 
 [4329_session0_R_intro.ipynb](https://github.com/erikcs/TA/blob/master/4329_session0_R_intro.ipynb)
 
-[4329_session1.ipynb](https://github.com/erikcs/TA/blob/master/4329_session1.ipynb)
+[4329_session1  (univariate/multivariate time series).ipynb](https://github.com/erikcs/TA/blob/master/4329_session1.ipynb)
 
-[4329_session2.ipynb](https://github.com/erikcs/TA/blob/master/4329_session2.ipynb)
+[4329_session2 (multivariate time series and volatility modeling).ipynb](https://github.com/erikcs/TA/blob/master/4329_session2.ipynb)
 
-[4329_session3.ipynb](https://github.com/erikcs/TA/blob/master/4329_session3.ipynb)
+[4329_session3 (principal components and statistical learning).ipynb](https://github.com/erikcs/TA/blob/master/4329_session3.ipynb)
 
 [4329_session4.ipynb](https://github.com/erikcs/TA/blob/master/4329_session4.ipynb)
 
