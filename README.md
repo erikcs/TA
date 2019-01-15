@@ -12,8 +12,6 @@
 
 * [4329_session3 (principal components and statistical learning).ipynb](https://github.com/erikcs/TA/blob/master/4329_session3.ipynb)
 
-* [4329_session4.ipynb](https://github.com/erikcs/TA/blob/master/4329_session4.ipynb)
-
 4302 Quantitative Methods in Corporate Finance, extra material for some homeworks:
 
 * [4302_EventStudy.ipynb](https://github.com/erikcs/TA/blob/master/4302_EventStudy.ipynb): Example of how to do an event study in R using functional idioms with the `dplyr` package
